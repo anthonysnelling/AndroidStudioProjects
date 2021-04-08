@@ -6,6 +6,13 @@ public class Microphone {
     String color;
     int model;
 
+//   constructor, helps with making new instances
+    public Microphone(String name, String color, int model) {
+        this.name = name;
+        this.color = color;
+        this.model = model;
+    }
+
     //Actions/ Methods
     public void  turnOff(){
         System.out.println(this.name + " Turn off");
