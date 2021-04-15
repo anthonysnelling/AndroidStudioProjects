@@ -1,3 +1,5 @@
+include ':javahashmaps'
+include ':javaobjectsasmethodparameters'
 include ':javaarraysasmethodparameters'
 include ':javarraysasmethodparameters'
 include ':LearnJava'
