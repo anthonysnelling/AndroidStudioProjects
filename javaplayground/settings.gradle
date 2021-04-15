@@ -1,3 +1,5 @@
+include ':javaarraysasmethodparameters'
+include ':javarraysasmethodparameters'
 include ':LearnJava'
 include ':app'
 rootProject.name = "javaplayground"
